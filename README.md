@@ -1,3 +1,3 @@
 ### run with: python main.py
 
-### Too many images for github, thus images are in a .zip, need to unzip before running the code
+### Images are to large for github, thus need to download images from the zindi website before running the code

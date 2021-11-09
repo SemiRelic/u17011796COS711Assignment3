@@ -1,0 +1,2 @@
+Images are too large download train images here:
+https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge/data
