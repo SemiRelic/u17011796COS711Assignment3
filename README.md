@@ -1,1 +1,1 @@
-# run with python main.py
+# run with: python main.py
