@@ -1,0 +1,2 @@
+Test Accurracy: 98.4
+Time: 312.77696561813354
